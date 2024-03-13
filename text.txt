@@ -1,0 +1,7 @@
+ /* showsVerticalScrollIndicator={false}  :  cria uma area de rolagem igual scroll */
+
+
+    <Text style={styles.textoRelogios}>Omnitrix Recalibrado</Text>
+      <Text style={styles.textoRelogios}>Superomnitrix</Text>
+      <Text style={styles.textoRelogios}>Omnimatrix</Text>
+      <Text style={styles.textoRelogios}>Biomnitrix</Text>
