@@ -5,6 +5,7 @@
   import Superomnitrix from './components/Superomnitrix'
   import Biomnitrix from './components/Biomnitrix'
 
+
   export default function App(){
     return(
       <SafeAreaView style={styles.background}>
@@ -14,6 +15,7 @@
           <Superomnitrix/>
           <Omnimatrix/>
           <Biomnitrix/>
+         
         </ScrollView>
       
       
