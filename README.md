@@ -13,4 +13,4 @@ Tecnologias usadas: React Native
 12/03 - Criado um componentes para cada um dos relogios<br>
 12/03 - protótipo Omnitrix concluido(todos os aliens foram adicionados) 
 
-Versão Antiga: [web](https://lucianoquintela.github.io/ben10-aliens/)
+Versão Antiga: [Web](https://lucianoquintela.github.io/ben10-aliens/)
